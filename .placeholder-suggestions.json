@@ -1,0 +1,18 @@
+{
+  "GeraeteinventarDialog.tsx": {
+    "bezeichnung": "z. B. MacBook Pro 16 Zoll",
+    "inventarnummer": "z. B. INV-2026-0042",
+    "kategorie": "Wähle eine Kategorie",
+    "zustand": "Aktueller Zustand des Geräts",
+    "anschaffungswert": "z. B. 2500,00",
+    "anschaffungsdatum": "Wann wurde es gekauft?",
+    "standort": "z. B. Büro Raum 203",
+    "verantwortlich_vorname": "z. B. Hans",
+    "verantwortlich_nachname": "z. B. Müller",
+    "hersteller": "z. B. Apple",
+    "modell": "z. B. M2 Max",
+    "seriennummer": "z. B. 2F8J1C234567",
+    "garantie_bis": "Garantie endet wann?",
+    "bemerkungen": "Besonderheiten, Wartungshistorie, Zubehör..."
+  }
+}

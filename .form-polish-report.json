@@ -1,0 +1,10 @@
+{
+  "entities": {
+    "Geräteinventar": {
+      "placeholders_set": 14,
+      "defaults_keys": ["zustand", "anschaffungsdatum"],
+      "computed_keys": [],
+      "reason": "Reine Stammdatenverwaltung — kein applookup auf externe Preisfelder, keine Mengen-Multiplikation, keine Dauerberechnung. Der einzelne anschaffungswert ist ein Eingabefeld, nicht berechenbar. Keine Basis für computed."
+    }
+  }
+}

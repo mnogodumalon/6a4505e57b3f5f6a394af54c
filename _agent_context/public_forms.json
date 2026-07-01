@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "forms": [
+    {
+      "entity": "geraeteinventar",
+      "app_id": "6a4505d80ae044946e7264ab",
+      "path": "/rest/apps/6a4505d80ae044946e7264ab/records",
+      "allowed_fields": [
+        "bezeichnung",
+        "inventarnummer",
+        "kategorie",
+        "zustand",
+        "anschaffungswert",
+        "anschaffungsdatum",
+        "standort",
+        "verantwortlich_vorname",
+        "verantwortlich_nachname",
+        "hersteller",
+        "modell",
+        "seriennummer",
+        "garantie_bis",
+        "bemerkungen"
+      ],
+      "pow": true,
+      "pow_difficulty": 50000,
+      "title": "Geräteinventar — Formular"
+    }
+  ]
+}
